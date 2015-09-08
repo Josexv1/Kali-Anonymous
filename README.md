@@ -12,3 +12,8 @@ Uso de Backbox-Anonymous en Kali Linux 2.0 Sana
 `sudo service tor start`
 
 `sudo backbox-anonymous start/stop`
+
+# Importante!
+Editar los archivos para que tu Hostname sea el correcto!!
+Por default el hostname en Kali linux es: kali
+Para cambiar tu hostname en terminal escribe `hostname NuevoHostname`
